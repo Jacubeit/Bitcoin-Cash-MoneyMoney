@@ -11,7 +11,7 @@ Donation Bitcoin Cash address: `1BUCR5Rh8FpN2SJmrHWnnR78hmgmKyiiWn`
 
 You can get a signed version of this extension from
 
-* my [GitHub releases page](https://github.com/Jacubeit/Bitcoin Cash-MoneyMoney/releases/tag/v0.1), or
+* my [GitHub releases page](https://github.com/Jacubeit/Bitcoin-Cash-MoneyMoney/releases/tag/v0.1), or
 * the [MoneyMoney Extensions](https://moneymoney-app.com/extensions/) page
 
 Once downloaded, move `Bitcoin Cash.lua` to your MoneyMoney Extensions folder.
