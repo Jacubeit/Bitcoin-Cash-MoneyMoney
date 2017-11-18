@@ -2,8 +2,8 @@
 Fetches amount and value of privately held Bitcoin Cash address via blockexplorer and returns it as a security.  
 This can be also be used to track your cold storage.
 
-If you like this extension, please buy me a great coffee or a beer?  
-BTC: `1MLT5MJkMet3jY5PdfoS3QKr2ousE7GSkr`
+Do you like this extension?
+Donation Bitcoin Cash address: `1BUCR5Rh8FpN2SJmrHWnnR78hmgmKyiiWn`
 
 ![MoneyMoney screenshot with Bitcoin Cash Balance](screens/bitcoin-balance.png)
 
